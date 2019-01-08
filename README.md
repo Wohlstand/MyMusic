@@ -35,7 +35,7 @@ All MIDI files are published under Creative Common BY-SA 4.0 license.
 * [Прощание славянки (GM)](Replicas/Proschanie%20slav%27anki%20GM.mid)
 * [Шуга - Глюкоза (GM)](Replicas/Shuga%20-%20Glukoza%20GM.mid)
 #### Из игр
-* [Mayoiga night - Nijikaku (С точками циклом) (GM)](Replicas/Games/Mayoiga%20night%20-%20Nijikaku%20GM%20%28with%20loop%20points%29%20GM.mid)
+* [Mayoiga night - Nijikaku (With loop points) (GM)](Replicas/Games/Mayoiga%20night%20-%20Nijikaku%20GM%20%28with%20loop%20points%29%20GM.mid)
 * [Mayoiga night - Nijikaku (GM)](Replicas/Games/Mayoiga%20night%20-%20Nijikaku%20GM.mid)
 * [GTA-SA - Main Theme (XG)](Replicas/Games/GTA-SA%20-%20Main%20Theme%20XG.mid)
 * [Yet another bonus - Mario Forever (GM)](Replicas/Games/Yet%20another%20bonus%20-%20Mario%20Forever%20GM.mid)
