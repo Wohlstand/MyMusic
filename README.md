@@ -25,7 +25,7 @@ All MIDI files are published under Creative Common BY-SA 4.0 license.
 * [Fox fantasy (XG)](Composed/Lis%27ya%20Fantasia%20%28Fox%20fantasy%29%20XG.mid)
     Created in 2018'th year while experimenting with the Sekaiju MIDI Editor
 
-### Приближенные к оригиналу
+### Like originals
 * [Cumbia Arabe (GM)](Replicas/Cumbia%20Arabe%20GM.mid)
 * [Too many tears (GM)](Replicas/Too%20many%20tears%20GM.mid)
 * [Pink Elephants on Parade - Dumbo (GM)](Replicas/Pink%20Elephants%20on%20Parade%20-%20Dumbo%20GM.mid)
@@ -34,14 +34,18 @@ All MIDI files are published under Creative Common BY-SA 4.0 license.
 * [На сопках Манчжурии (GM)](Replicas/Na%20sopkah%20Manchzhurii%20GM.mid)
 * [Прощание славянки (GM)](Replicas/Proschanie%20slav%27anki%20GM.mid)
 * [Шуга - Глюкоза (GM)](Replicas/Shuga%20-%20Glukoza%20GM.mid)
-#### Из игр
+#### From games
 * [Mayoiga night - Nijikaku (With loop points) (GM)](Replicas/Games/Mayoiga%20night%20-%20Nijikaku%20GM%20%28with%20loop%20points%29%20GM.mid)
 * [Mayoiga night - Nijikaku (GM)](Replicas/Games/Mayoiga%20night%20-%20Nijikaku%20GM.mid)
 * [GTA-SA - Main Theme (XG)](Replicas/Games/GTA-SA%20-%20Main%20Theme%20XG.mid)
 * [Yet another bonus - Mario Forever (GM)](Replicas/Games/Yet%20another%20bonus%20-%20Mario%20Forever%20GM.mid)
     Made from the result of tracker music conversion and polishing to make a good quality sound.
 
-### Ремейки
+### Remakes
+* [Jazz-walts (by Egor Nikulin) (GM)](Remakes/Jazz-walts%20%28by%20Egor%20Nikulin%29.mid)
+* [Wake up - Moow - Джазовый ремейк (GM)](Remakes/Wake%20up%20-%20Moow%20-%20Jazz%20Remake%20GM.mid)
+* [Не перебивай меня - Алика Смехова - Джазовый ремейк (GM)](Remakes/Ne%20perebivay%20men%27a%20-%20Alika_Smekhova%20-%20Jazz%20Remake%20GM.mid)
+#### From games
 * [Jazzin' them Nazis - Wolfenstein (GM)](Remakes/Games/Jazzin%27%20them%20Nazis%20-%20Wolfenstein%20GM.mid)
 * [Mayoiga night - Nijikaku, arranged, WIP (GM)](Remakes/Games/Mayoiga%20night%20-%20Nijikaku%2C%20arranged%2C%20WIP%20-%20GM.mid)
 * [Get Them Before They Get You! - Wolfenstein (GM)](Remakes/Games/Get%20Them%20Before%20They%20Get%20You%21%20-%20Wolfenstein%20GM.mid)
@@ -49,11 +53,8 @@ All MIDI files are published under Creative Common BY-SA 4.0 license.
 * [Ice path (alternative) (GM)](Remakes/Games/Ice%20path%20%28alternative%29%20GM.mid)
 * [Ice path (extended) (GM)](Remakes/Games/Ice%20path%20%28extended%29%20GM.mid)
 * [Ice path (short) (GM)](Remakes/Games/Ice%20path%20%28short%29%20GM.mid)
-* [Jazz-walts (by Egor Nikulin) (GM)](Remakes/Jazz-walts%20%28by%20Egor%20Nikulin%29.mid)
-* [Wake up - Moow - Джазовый ремейк (GM)](Remakes/Wake%20up%20-%20Moow%20-%20Jazz%20Remake%20GM.mid)
-* [Не перебивай меня - Алика Смехова - Джазовый ремейк (GM)](Remakes/Ne%20perebivay%20men%27a%20-%20Alika_Smekhova%20-%20Jazz%20Remake%20GM.mid)
 
-### Прочее
+### Misc.
 * [Ievan Polkka (GM)](Misc/Ievan%20polkka%20GM.mid)
 * [Осенний сон (GM)](Misc/Osenniy%20Son%20GM.mid)
 

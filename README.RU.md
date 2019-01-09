@@ -44,6 +44,10 @@
     отполирована чтобы добиться качественного звучания.
 
 ### Ремейки
+* [Джаз-Вальс Егора Никулина (GM)](Remakes/Jazz-walts%20%28by%20Egor%20Nikulin%29.mid)
+* [Wake up - Moow - Джазовый ремейк (GM)](Remakes/Wake%20up%20-%20Moow%20-%20Jazz%20Remake%20GM.mid)
+* [Не перебивай меня - Алика Смехова - Джазовый ремейк (GM)](Remakes/Ne%20perebivay%20men%27a%20-%20Alika_Smekhova%20-%20Jazz%20Remake%20GM.mid)
+#### Из игр
 * [Jazzin' them Nazis - Wolfenstein (GM)](Remakes/Games/Jazzin%27%20them%20Nazis%20-%20Wolfenstein%20GM.mid)
 * [Mayoiga night - Nijikaku, arranged, WIP (GM)](Remakes/Games/Mayoiga%20night%20-%20Nijikaku%2C%20arranged%2C%20WIP%20-%20GM.mid)
 * [Get Them Before They Get You! - Wolfenstein (GM)](Remakes/Games/Get%20Them%20Before%20They%20Get%20You%21%20-%20Wolfenstein%20GM.mid)
@@ -51,9 +55,6 @@
 * [Ice path (alternative) (GM)](Remakes/Games/Ice%20path%20%28alternative%29%20GM.mid)
 * [Ice path (extended) (GM)](Remakes/Games/Ice%20path%20%28extended%29%20GM.mid)
 * [Ice path (short) (GM)](Remakes/Games/Ice%20path%20%28short%29%20GM.mid)
-* [Джаз-Вальс Егора Никулина (GM)](Remakes/Jazz-walts%20%28by%20Egor%20Nikulin%29.mid)
-* [Wake up - Moow - Джазовый ремейк (GM)](Remakes/Wake%20up%20-%20Moow%20-%20Jazz%20Remake%20GM.mid)
-* [Не перебивай меня - Алика Смехова - Джазовый ремейк (GM)](Remakes/Ne%20perebivay%20men%27a%20-%20Alika_Smekhova%20-%20Jazz%20Remake%20GM.mid)
 
 ### Прочее
 * [Ievan Polkka (GM)](Misc/Ievan%20polkka%20GM.mid)
