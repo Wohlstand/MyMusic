@@ -34,6 +34,8 @@ All MIDI files are published under Creative Common BY-SA 4.0 license.
 * [На сопках Манчжурии (GM)](Replicas/Na%20sopkah%20Manchzhurii%20GM.mid)
 * [Прощание славянки (GM)](Replicas/Proschanie%20slav%27anki%20GM.mid)
 * [Шуга - Глюкоза (GM)](Replicas/Shuga%20-%20Glukoza%20GM.mid)
+* [Drunken sailor (GM)](Replicas/Drunken%20Sailor%20GM.mid)
+    One of variants of the [old English song](https://en.wikipedia.org/wiki/Drunken_Sailor). As a base I have used arrangement from [this video](https://www.youtube.com/watch?v=FOwXlANwerI).
 #### From games
 * [Mayoiga night - Nijikaku (With loop points) (GM)](Replicas/Games/Mayoiga%20night%20-%20Nijikaku%20GM%20%28with%20loop%20points%29%20GM.mid)
 * [Mayoiga night - Nijikaku (GM)](Replicas/Games/Mayoiga%20night%20-%20Nijikaku%20GM.mid)
