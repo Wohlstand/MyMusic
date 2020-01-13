@@ -43,7 +43,7 @@
 * [GTA-SA - Main Theme (XG)](Replicas/Games/GTA-SA%20-%20Main%20Theme%20XG.mid)
 * [Yet another bonus - Mario Forever (GM)](Replicas/Games/Yet%20another%20bonus%20-%20Mario%20Forever%20GM.mid)
     Создана в результате конвертирования из формата трекерной музыки, и затем
-    отполирована чтобы добиться качественного звучания.
+    отполирована, чтобы добиться качественного звучания.
 
 ### Ремейки
 * [Джаз-Вальс Егора Никулина (GM)](Remakes/Jazz-walts%20%28by%20Egor%20Nikulin%29.mid)
