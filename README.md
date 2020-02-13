@@ -13,7 +13,7 @@ All MIDI files are published under Creative Common BY-SA 4.0 license.
 ### Composed by myself
 * [Любовь одна и навсегда (GM)](Composed/Lubov%27%20odna%20i%20navsegda%20GM.mid)
     Created in 2011'th year. Inspired by memories of recorder flute lessons in a past
-* [Не знаю, что (GM)](Composed/I%20do%20not%20know%2C%20that%20GM.mid)
+* [I don't know, that (GM)](Composed/I%20do%20not%20know%2C%20that%20GM.mid)
     Created aproximately in 2008-2009'th year, a little experiment
 * [Menuet of the Game (GM)](Composed/Menuet%20of%20the%20Game%20%28co-authership%20by%20GLuigiX%20and%20Wohlstand%29%20GM.mid)
     Created  2014'th year with co-authorship by GLuigiX
@@ -45,8 +45,9 @@ All MIDI files are published under Creative Common BY-SA 4.0 license.
 
 ### Remakes
 * [Jazz-walts (by Egor Nikulin) (GM)](Remakes/Jazz-walts%20%28by%20Egor%20Nikulin%29.mid)
-* [Wake up - Moow - Джазовый ремейк (GM)](Remakes/Wake%20up%20-%20Moow%20-%20Jazz%20Remake%20GM.mid)
-* [Не перебивай меня - Алика Смехова - Джазовый ремейк (GM)](Remakes/Ne%20perebivay%20men%27a%20-%20Alika_Smekhova%20-%20Jazz%20Remake%20GM.mid)
+* [Wake up - Moow - Jazz remake (GM)](Remakes/Wake%20up%20-%20Moow%20-%20Jazz%20Remake%20GM.mid)
+* [Не перебивай меня - Alika Smekhova - Jazz remake (GM)](Remakes/Ne%20perebivay%20men%27a%20-%20Alika_Smekhova%20-%20Jazz%20Remake%20GM.mid)
+* [Dancing Willow - Drowsy Maggie (GM)](Remakes/Dancing Willow - Drowsy Maggie%20GM.mid)
 #### From games
 * [Jazzin' them Nazis - Wolfenstein (GM)](Remakes/Games/Jazzin%27%20them%20Nazis%20-%20Wolfenstein%20GM.mid)
 * [Mayoiga night - Nijikaku, arranged, WIP (GM)](Remakes/Games/Mayoiga%20night%20-%20Nijikaku%2C%20arranged%2C%20WIP%20-%20GM.mid)
