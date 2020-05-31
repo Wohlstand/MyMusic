@@ -47,7 +47,7 @@ All MIDI files are published under Creative Common BY-SA 4.0 license.
 * [Jazz-walts (by Egor Nikulin) (GM)](Remakes/Jazz-walts%20%28by%20Egor%20Nikulin%29.mid)
 * [Wake up - Moow - Jazz remake (GM)](Remakes/Wake%20up%20-%20Moow%20-%20Jazz%20Remake%20GM.mid)
 * [Не перебивай меня - Alika Smekhova - Jazz remake (GM)](Remakes/Ne%20perebivay%20men%27a%20-%20Alika_Smekhova%20-%20Jazz%20Remake%20GM.mid)
-* [Dancing Willow - Drowsy Maggie (GM)](Remakes/Dancing Willow - Drowsy Maggie%20GM.mid)
+* [Dancing Willow - Drowsy Maggie (GM)](Remakes/Dancing%20Willow%20-%20Drowsy%20Maggie%20GM.mid)
 #### From games
 * [Jazzin' them Nazis - Wolfenstein (GM)](Remakes/Games/Jazzin%27%20them%20Nazis%20-%20Wolfenstein%20GM.mid)
 * [Mayoiga night - Nijikaku, arranged, WIP (GM)](Remakes/Games/Mayoiga%20night%20-%20Nijikaku%2C%20arranged%2C%20WIP%20-%20GM.mid)
