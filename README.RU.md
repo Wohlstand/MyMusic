@@ -44,6 +44,7 @@
 * [Yet another bonus - Mario Forever (GM)](Replicas/Games/Yet%20another%20bonus%20-%20Mario%20Forever%20GM.mid)
     Создана в результате конвертирования из формата трекерной музыки, и затем
     отполирована, чтобы добиться качественного звучания.
+* [Fer.al - Jaunt (Mugmyre March)](Replicas/Games/Fer.al%20-%20Jaunt%20%28Mugmyre%20March%29%20-%20GM.mid)
 
 ### Ремейки
 * [Джаз-Вальс Егора Никулина (GM)](Remakes/Jazz-walts%20%28by%20Egor%20Nikulin%29.mid)
