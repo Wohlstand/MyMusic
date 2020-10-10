@@ -45,8 +45,8 @@ I was about 14 years old.
   * [My first attempt to make drums](Slav_ver2-1.mid), it turned out so-so, to be honest.
   Sounds good only on FatMan-bank for OPL3 chip.
   * [Чуть-чуть улучшенная версия](Slav_ver2-2.mid), but still so-so.
-* **Valurile_Dunării**, multiple versions
-  * [Accirduin](Valurile_Dun%C4%83rii_accordion.mid), captured from the accordion notes
+* **Valurile Dunării**, multiple versions
+  * [Accordion](Valurile_Dun%C4%83rii_accordion.mid), captured from the accordion notes
   * [Orchestra](Valurile_Dun%C4%83rii_orchestra.mid), my attempt to arrange the melody.
   Over time, I had a LOT of variations of this melody and attempts to improve it.
   For it, I simply have to devote a whole folder!
