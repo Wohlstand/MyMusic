@@ -19,22 +19,10 @@ expressiveness, even the dead will rise from the grave beause of this nightmare 
 
 All these files I give into the public domain, do with and from them what you want.
 
-Среди этих файлов есть и примеры неудачные образцов, например моя попытка в
-2007м году снять с оригинала Рио-Риту, однако результат звучи как-то паршиво.
-Позже на MIDI-ru я нашёл образец, который звучио офигенно и точно, достойный
-уважения.
-
 Among these files there are examples of unsuccessful projects, for example, my
 attempt in 2007 to remove the Rio Rita from the original, but the result sounds
 somehow lousy. Later on MIDI-ru I found a tune that sounds awesome and
 accurate, worthy of respect.
-
-
-Слушать эти файлы я крайне рекомендую через [libADLMIDI](https://github.com/Wohlstand/libADLMIDI) с банком FatMan (58).
-Все эти файлы я создавал на компьютере под управлением Windows 98 с
-использованием Cakewalk Sonar 1.0, 1.02 и 1.3. На компьютере была звуковая карта
-SoundBlaster 16, которую я очень полюбил, и благодаря которой я полюбил и сам
-чип OPL3.
 
 I highly recommend to listen these files via [libADLMIDI](https://github.com/Wohlstand/libADLMIDI) with
 the FatMan bank (Code 58). I created all of these files on a Windows 98 computer
