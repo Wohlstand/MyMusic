@@ -30,7 +30,7 @@ using Cakewalk Sonar 1.0, 1.02, and 1.3. The computer had a SoundBlaster 16 soun
 card, which I loved very much, and thanks to which I loved myself OPL3 chip.
 
 -------------
-**These files will don't sound norma if you'll play them via Windows default MIDI synthesizer, called as "Microsoft GS".**
+**These files will don't sound normally if you'll play them via Windows default MIDI synthesizer, called as "Microsoft GS".**
 -------------
 
 # List of files
