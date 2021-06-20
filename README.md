@@ -24,6 +24,10 @@ All MIDI files are published under Creative Common BY-SA 4.0 license.
     who have played an accomponement on guitar, then I have completed other parties.
 * [Fox fantasy (XG)](Composed/Lis%27ya%20Fantasia%20%28Fox%20fantasy%29%20XG.mid)
     Created in 2018'th year while experimenting with the Sekaiju MIDI Editor
+* [Fox fantasy, version 2 (XG), Finger bass](Composed/Lis%27ya%20Fantasia%20%28Fox%20fantasy%29%20v2%20Finger%20bass%20XG%20XG.mid)
+    Sligtly improved arangement, finger bass version
+* [Fox fantasy, version 2 (XG), Acoustic bass](Composed/Lis%27ya%20Fantasia%20%28Fox%20fantasy%29%20v2%20Acoustic%20bass%20XG%20XG.mid)
+    Sligtly improved arangement, acoustic bass version
 
 ### MIDI covers
 * [Cumbia Arabe (GM)](Replicas/Cumbia%20Arabe%20GM.mid)
