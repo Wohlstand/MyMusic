@@ -3,7 +3,7 @@
 [English (EN)](README.md) [Русский (RU)](README.RU.md)
 
 Here are most of MIDI music I have created since 2008'th year. Here are picked
-by ear songs e.g. "Like to original"; remakex/remixes (Both own made and mods
+by ear songs e.g. covers ("Like to original"); remakex/remixes (Both own made and mods
 of other MIDI files); also songs composed by myself.
 
 All MIDI files are published under Creative Common BY-SA 4.0 license.
@@ -25,7 +25,7 @@ All MIDI files are published under Creative Common BY-SA 4.0 license.
 * [Fox fantasy (XG)](Composed/Lis%27ya%20Fantasia%20%28Fox%20fantasy%29%20XG.mid)
     Created in 2018'th year while experimenting with the Sekaiju MIDI Editor
 
-### Like originals
+### MIDI covers
 * [Cumbia Arabe (GM)](Replicas/Cumbia%20Arabe%20GM.mid)
 * [Too many tears (GM)](Replicas/Too%20many%20tears%20GM.mid)
 * [Pink Elephants on Parade - Dumbo (GM)](Replicas/Pink%20Elephants%20on%20Parade%20-%20Dumbo%20GM.mid)
