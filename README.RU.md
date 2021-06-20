@@ -59,7 +59,7 @@
 * [Ice path (alternative) (GM)](Remakes/Games/Ice%20path%20%28alternative%29%20GM.mid)
 * [Ice path (extended) (GM)](Remakes/Games/Ice%20path%20%28extended%29%20GM.mid)
 * [Ice path (short) (GM)](Remakes/Games/Ice%20path%20%28short%29%20GM.mid)
-* [Among Us - Drip (GM)](Remakes/Games/Among Drip GM.mid)
+* [Among Us - Drip (GM)](Remakes/Games/Among%20Drip%20GM.mid)
 
 ### Прочее
 * [Ievan Polkka (GM)](Misc/Ievan%20polkka%20GM.mid)
