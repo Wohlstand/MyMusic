@@ -41,6 +41,7 @@
 * [Шуга - Глюкоза (GM)](Replicas/Shuga%20-%20Glukoza%20GM.mid)
 * [Drunken sailor (GM)](Replicas/Drunken%20Sailor%20GM.mid)
     Один из вариантов старой [английской народной песни](https://ru.wikipedia.org/wiki/Drunken_Sailor). За основу взята обработка, взятая с [этого видео](https://www.youtube.com/watch?v=FOwXlANwerI).
+* [Люта бджілка - Верка Сердючка (GM)](Replicas/Luta-Bdzilka%20-%20Werka%20Serduczka%20GM.mid)
 #### Из игр
 * [Mayoiga night - Nijikaku (С точками цикла) (GM)](Replicas/Games/Mayoiga%20night%20-%20Nijikaku%20GM%20%28with%20loop%20points%29%20GM.mid)
 * [Mayoiga night - Nijikaku (GM)](Replicas/Games/Mayoiga%20night%20-%20Nijikaku%20GM.mid)
