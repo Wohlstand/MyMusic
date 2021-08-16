@@ -49,7 +49,8 @@
 * [Yet another bonus - Mario Forever (GM)](Replicas/Games/Yet%20another%20bonus%20-%20Mario%20Forever%20GM.mid)
     Создана в результате конвертирования из формата трекерной музыки, и затем
     отполирована, чтобы добиться качественного звучания.
-* [Fer.al - Jaunt (Mugmyre March)](Replicas/Games/Fer.al%20-%20Jaunt%20%28Mugmyre%20March%29%20-%20GM.mid)
+* [Fer.al - Jaunt (Mugmyre March) (GM)](Replicas/Games/Fer.al%20-%20Jaunt%20%28Mugmyre%20March%29%20-%20GM.mid)
+* [Pixel Spy vs Spy (GM)](Replicas/Pixel%20Spy%20vs%20Spy%20by%20Eric%20Matyas%20-%20SoundImage-org%20GM.mid) - мелодия Эрика Матьяса ([SoundImage.org](https://soundimage.org))
 
 ### Ремейки
 * [Джаз-Вальс Егора Никулина (GM)](Remakes/Jazz-walts%20%28by%20Egor%20Nikulin%29.mid)
