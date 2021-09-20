@@ -17,7 +17,7 @@
 * [Не знаю, что (GM)](Composed/I%20do%20not%20know%2C%20that%20GM.mid)
     Создано где-то в 2008-2009-м году, небольшой эксперимент
 * [Менуэт Игры (GM)](Composed/Menuet%20of%20the%20Game%20%28co-authership%20by%20GLuigiX%20and%20Wohlstand%29%20GM.mid)
-    Создано где-то в 2014-м году в со-авторстке с GLuigiX
+    Создано где-то в 2014-м году в со-авторстве с немцем GLuigiX (ныне Аристо)
 * [Subway (GM)](Composed/Subway%20GM.mid)
     Создано в 2015-м году
 * [Моя мечта (GM)](Composed/Moya%20Mechta%20GM.mid)
