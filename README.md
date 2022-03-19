@@ -43,6 +43,8 @@ All MIDI files are published under Creative Common BY-SA 4.0 license.
 * [Drunken sailor (GM)](Replicas/Drunken%20Sailor%20GM.mid)
     One of variants of the [old English song](https://en.wikipedia.org/wiki/Drunken_Sailor). As a base I have used arrangement from [this video](https://www.youtube.com/watch?v=FOwXlANwerI).
 * [Люта бджілка - Верка Сердючка (GM)](Replicas/Luta-Bdzilka%20-%20Werka%20Serduczka%20GM.mid)
+* [Odd Rhythms (XG)](Replicas/Odd%20Rhythms%20-%20XG.mid) - Roland MC-8 sequencer Demo Song composed by Ralph Dyke on March 25, 1977 ([read more](https://rolandmc8-wordpress-com.cdn.ampproject.org/v/s/rolandmc8.wordpress.com/2010/01/22/roland-mc-8-sequencer-demo-song-odd-rhythms/amp/?amp_gsa=1&amp_js_v=a6&usqp=mq331AQKKAFQArABIIACAw%3D%3D#amp_tf=%251%24s%20%E3%82%88%E3%82%8A&aoh=16336022163258&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Frolandmc8.wordpress.com%2F2010%2F01%2F22%2Froland-mc-8-sequencer-demo-song-odd-rhythms%2F))
+* [Odd Rhythms (GM)](Replicas/Odd%20Rhythms%20-%20GM.mid) - GeneralMIDI version without stereo drums
 #### From games
 * [Mayoiga night - Nijikaku (With loop points) (GM)](Replicas/Games/Mayoiga%20night%20-%20Nijikaku%20GM%20%28with%20loop%20points%29%20GM.mid)
 * [Mayoiga night - Nijikaku (GM)](Replicas/Games/Mayoiga%20night%20-%20Nijikaku%20GM.mid)
@@ -51,8 +53,6 @@ All MIDI files are published under Creative Common BY-SA 4.0 license.
     Made from the result of tracker music conversion and polishing to make a good quality sound.
 * [Fer.al - Jaunt (Mugmyre March)](Replicas/Games/Fer.al%20-%20Jaunt%20%28Mugmyre%20March%29%20-%20GM.mid)
 * [Pixel Spy vs Spy (GM)](Replicas/Pixel%20Spy%20vs%20Spy%20by%20Eric%20Matyas%20-%20SoundImage-org%20GM.mid) - composed by Eric Matyas ([SoundImage.org](https://soundimage.org))
-* [Odd Rhythms (XG)](Replicas/Odd%20Rhythms%20-%20XG.mid) - Roland MC-8 sequencer Demo Song composed by Ralph Dyke on March 25, 1977 ([read more](https://rolandmc8-wordpress-com.cdn.ampproject.org/v/s/rolandmc8.wordpress.com/2010/01/22/roland-mc-8-sequencer-demo-song-odd-rhythms/amp/?amp_gsa=1&amp_js_v=a6&usqp=mq331AQKKAFQArABIIACAw%3D%3D#amp_tf=%251%24s%20%E3%82%88%E3%82%8A&aoh=16336022163258&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Frolandmc8.wordpress.com%2F2010%2F01%2F22%2Froland-mc-8-sequencer-demo-song-odd-rhythms%2F))
-* [Odd Rhythms (GM)](Replicas/Odd%20Rhythms%20-%20GM.mid) - GeneralMIDI version without stereo drums
 
 ### Remakes
 * [Jazz-walts (by Egor Nikulin) (GM)](Remakes/Jazz-walts%20%28by%20Egor%20Nikulin%29.mid)
