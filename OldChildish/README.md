@@ -70,9 +70,8 @@ I was about 14 years old.
 I took a MIDI file that was used on the site "Postcards@mail-ru" (later disappeared
 into non-existence) as music for postcards. I really did not like the first version
 for its primitiveness, and I decided to improve it.
-* [**Hava-Nagila, version2**](HavaNagila_ver1.mid). After "Postcards@mail-ru" updated
+* [**Hava-Nagila, version2**](HavaNagila_ver2.mid). After "Postcards@mail-ru" updated
 their music system, replaced MIDI files with MP3 recordings, there was a version performed
 by the James Last Orchestra. I liked it, and already purely for myself, I reworked my MIDI file
 so that it was close to this version. The first version I lost, it would seem, was. But I
 found it thanks to backups, fuf :smile:.
-
