@@ -28,7 +28,7 @@ All MIDI files are published under Creative Common BY-SA 4.0 license.
     Sligtly improved arangement, finger bass version
 * [Fox fantasy, version 2 (XG), Acoustic bass](Composed/Lis%27ya%20Fantasia%20%28Fox%20fantasy%29%20v2%20Acoustic%20bass%20XG%20XG.mid)
     Sligtly improved arangement, acoustic bass version
-* [享椰奶 (GM)](Composed/Xiang-Ye-Nai%20GM.mid)
+* [享椰奶 (GM)](Composed/Xiang-Ye-Nai%20GM.mid), [享椰奶 Variant 2 with a flute melody (GM)](Composed/Xiang-Ye-Nai%20var2%20GM.mid)
     Xiang-Ye-Nai, "Enjoy coconut milk". Created in 2021'th year with inspiration by jokes at Chinese chat and the speech synthesizer robot
 
 ### MIDI covers
