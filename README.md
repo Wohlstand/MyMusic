@@ -12,7 +12,7 @@ All MIDI files are published under Creative Common BY-SA 4.0 license.
 
 ### Composed by myself
 * [Любовь одна и навсегда (GM)](Composed/Lubov%27%20odna%20i%20navsegda%20GM.mid)
-    Created in 2011'th year. Inspired by memories of recorder flute lessons in a past
+    Created in 2011'th year. Inspired by memories of recorder flute lessons in a past. Clarification: the base melody itself had been inspired by Indian mantra "Shiva Shiva Shanbo" that was performed in school in very simplified form.
 * [I don't know, that (GM)](Composed/I%20do%20not%20know%2C%20that%20GM.mid)
     Created aproximately in 2008-2009'th year, a little experiment
 * [Menuet of the Game (GM)](Composed/Menuet%20of%20the%20Game%20%28co-authership%20by%20GLuigiX%20and%20Wohlstand%29%20GM.mid)
