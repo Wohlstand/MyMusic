@@ -56,6 +56,7 @@
 * [Fer.al - Jaunt (Mugmyre March) (GM)](Replicas/Games/Fer.al%20-%20Jaunt%20%28Mugmyre%20March%29%20-%20GM.mid)
 * [Pixel Spy vs Spy (GM)](Replicas/Pixel%20Spy%20vs%20Spy%20by%20Eric%20Matyas%20-%20SoundImage-org%20GM.mid) - мелодия Эрика Матьяса ([SoundImage.org](https://soundimage.org))
 * [Animal Crossing - K.K.中华 / Величие К.К. / Imperial K.K.](Replicas/Games/K.K.%20Zhong-Hua%20-%20Animal%20Crossing%20-%20GM.mid)
+* [Исход Лилии: Искупление рыцарей (エンダーリリーズ: クワイタス オブ ザ ナイツ) - Композитор Ямато Касаи, аранжировка от Schneeheide](Replicas/Games/Ender Lilies 37.mid)
 
 ### Ремейки
 * [Джаз-Вальс Егора Никулина (GM)](Remakes/Jazz-walts%20%28by%20Egor%20Nikulin%29.mid)
